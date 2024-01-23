@@ -6,7 +6,7 @@ This is my favorite restaurant. It serves delicious dishes and has friendly staf
 
 ---
 
-# Hyderabad special dishes
+## Hyderabad special dishes
 1. Special chicken biryani
 2. Butter chicken
 3. Butter naan
