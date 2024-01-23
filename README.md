@@ -10,3 +10,7 @@ This is my favorite restaurant. It serves delicious dishes and has friendly staf
 1. Special chicken biryani
 2. Butter chicken
 3. Butter naan
+
+* Tea point
+* Cream stone
+* Miraj 
