@@ -18,3 +18,11 @@ Below are the few books which I recommend everyone to read. These are few of the
 | THE PRIVATE LIFE OF AN INDIAN PRINCE | This book deals with the abolition of the princely states system in India. | MULK RAJ ANAND |
 | TRAIN TO PAKISTAN | Instead of depicting the Partition in terms of only the political events surrounding it. | KHUSHWANT SINGH |
 | The Room on the Roof | It is the story of an orphaned Anglo-Indian boy, Rusty, living in a European colony in Dehradun. | RUSKIN BOND |
+
+---
+
+## My Favorite Quotes
+
+>" Happiness is not a matter of intensity but of balance, order, rhythm and harmony." - Thomas Merton
+
+>"If you don't know where you are going, any road will get you there." - Lewis Carroll
