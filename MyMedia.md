@@ -26,3 +26,18 @@ Below are the few books which I recommend everyone to read. These are few of the
 >" Happiness is not a matter of intensity but of balance, order, rhythm and harmony." - Thomas Merton
 
 >"If you don't know where you are going, any road will get you there." - Lewis Carroll
+
+---
+
+## Code Fencing
+
+#### To remove falsy values in Dart
+
+Calls function depending on conditional values.
+
+```
+List compact(List lst) {
+  return lst..removeWhere((v) => [null, false].contains(v));
+}
+```
+<https://code.pieces.app/collections/dart>
