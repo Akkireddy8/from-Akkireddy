@@ -14,3 +14,5 @@ This is my favorite restaurant. It serves delicious dishes and has friendly staf
 * Tea point
 * Cream stone
 * Miraj 
+
+[page](MyMedia.md)
